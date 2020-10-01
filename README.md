@@ -52,4 +52,9 @@ Wieringa, R., Maiden, N., Mead, N., Rolland. C. (2006) “Requirements engineeri
 - Remember that it may take some time according to the amount of PDF files that you've uploaded
 - You have to upload only PDF files of the same subject. Otherwise, you are not going to get useful outcomes
 - After that, go to visualizations page and select one of the available views
-- Do you want to know more? Access the process in BPMn. The EvidenceSET flow bizagi HTML page.
+
+# Flow
+
+Do you want to know more? Access the process in BPMn. The EvidenceSET flow bizagi HTML page.
+
+http://www.evidenceset.com.br/html/processes/EvidenceSETFlow/
