@@ -43,3 +43,13 @@ Marshall, C., Brereton, P. (2015) “Systematic Review Toolbox: A Catalogue of T
 Petersen, K., Vakkalanka, S., Kuzniarz, L. (2015) “Guidelines for Conducting Systematic Mapping Studies in Software Engineering: An Update”. Information and Software Technology 64(2015):1-18.
 
 Wieringa, R., Maiden, N., Mead, N., Rolland. C. (2006) “Requirements engineering paper classification and evaluation criteria: a proposal and a discussion”. Requirements Engineering 11(1):102-107.
+
+# INSTRUCTIONS
+
+- First you have to upload PDF files
+- Be sure you choose open PDF files (withot any protection or comments)
+- After that, go to set up page and process all files by clicling on the "Process Files"'s button
+- Remember that it may take some time according to the amount of PDF files that you've uploaded
+- You have to upload only PDF files of the same subject. Otherwise, you are not going to get useful outcomes
+- After that, go to visualizations page and select one of the available views
+- Do you want to know more? Access the process in BPMn. The EvidenceSET flow bizagi HTML page.
